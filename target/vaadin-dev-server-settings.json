@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/saadl/Desktop/chatbot-springAi-mistral/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/saadl/Desktop/chatbot-springAi-mistral/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/saadl/Desktop/chatbot-springAi-mistral/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\saadl\\Desktop\\chatbot-springAi-mistral\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\saadl\\Desktop\\chatbot-springAi-mistral\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/saadl/Desktop/chatbot-springAi-mistral/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/saadl/Desktop/chatbot-springAi-mistral/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/saadl/Desktop/chatbot-springAi-mistral/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\saadl\\Desktop\\chatbot-springAi-mistral\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
